@@ -1,0 +1,21 @@
+MIN% - Minutes Percentage: Percentage of team minutes used by a player while he was on the floor
+
+USG% - Usage Rate: usage percentage is an estimate of the percentage of team plays used by a player while he was on the floor
+
+TO% - Turnover Rate: A metric that estimates the number of turnovers a player commits per 100 possessions
+
+eFG% - Effective Shooting Percentage: In eFG%, three-point shots made are worth 50% more than two-point shots made. 
+				      eFG% Formula=(FGM+ (0.5 x 3PM))/FGA
+
+TS% - True Shooting Percentage: is a measure of shooting efficiency that takes into account field goals, 3-point field goals, and free throws.
+
+TRB% - Total Rebound Percentage: is estimated percentage of available rebounds grabbed by the player while the player is on the court.
+
+AST% - Assist Percentage: is an estimated percentage of teammate field goals a player assisted while the player is on the court.
+
+VI - Versatility Index: is a metric that measures a player’s ability to produce in points, assists, and rebounds. 
+			The average player will score around a five on the index, while top players score above 10.
+
+ORTG - Offensive Rating: Individual offensive rating is the number of points produced by a player per 100 total individual possessions.
+
+DRTG - Defensive Rating: Individual defensive rating estimates how many points the player allowed per 100 possessions he individually faced while staying on the court.
