@@ -13,8 +13,7 @@ TRB% - Total Rebound Percentage: is estimated percentage of available rebounds g
 
 AST% - Assist Percentage: is an estimated percentage of teammate field goals a player assisted while the player is on the court.
 
-VI - Versatility Index: is a metric that measures a player’s ability to produce in points, assists, and rebounds. 
-			The average player will score around a five on the index, while top players score above 10.
+VI - Versatility Index: is a metric that measures a player’s ability to produce in points, assists, and rebounds. The average player will score around a five on the index, while 			  top players score above 10.
 
 ORTG - Offensive Rating: Individual offensive rating is the number of points produced by a player per 100 total individual possessions.
 
